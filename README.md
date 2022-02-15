@@ -3,6 +3,9 @@ Developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsihnhee09&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+<p dir="auto"><a href="https://solved.ac/profile/lukince" rel="nofollow"><img src="https://camo.githubusercontent.com/cfd398f2f79da600a0072e305654d0db97396f7b28a7bf1192d15174fc895a96/68747470733a2f2f6769746875622d726561646d652d736f6c76656461632d6879703372666c6f772e76657263656c2e6170702f6170692f3f68616e646c653d6c756b696e6365" alt="LSolveRank" data-canonical-src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sihnhee09" style="max-width: 100%;"></a></p>
+
 <!--
 **sihnhee09/sihnhee09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
